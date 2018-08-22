@@ -13,3 +13,6 @@
 - 1 egg
 - 2 grams vanilla
 - 1 tablespoon ground cinnamon
+
+## Cooking
+- 350 degrees (F) for 10 minutes.
